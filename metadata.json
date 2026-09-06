@@ -1,0 +1,7 @@
+{
+  "name": "CallGuard AI",
+  "description": "AI-powered voice call screening and scam-risk detection system with dual-layer reputation check and adaptive conversational LLM risk engine.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
